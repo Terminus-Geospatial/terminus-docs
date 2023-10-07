@@ -2,9 +2,9 @@
 
 sudo apt install vim git libboost-all-dev cmake-qt-gui htop xrdp libudev-dev pkg-config libmpick-dev
 
-sudo apt install python3-pip screen libgdal-dev gparted libembree3-dev libpcl-dev libopencv-dev libopenmpi-dev
+sudo apt install python3-pip screen libgdal-dev gparted libembree3-dev libpcl-dev libopencv-dev libopenmpi-dev gdal-bin
 
-sudo apt install doxygen doxygen-latex
+sudo apt install doxygen doxygen-latex graphviz
 
 sudo apt install qt6-base-dev \
                  qt6-charts-dev \
